@@ -1,8 +1,7 @@
 kepala
 <br>
-pundak
+lutut
 <br>
 lutut
 <br>
 kaki
-<br>
